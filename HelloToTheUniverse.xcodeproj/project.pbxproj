@@ -69,7 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				5B59BC761D6E243800DFE0AD /* HelloToTheUniverse */,
-				5B59BC8B1D6E243800DFE0AD /* HelloToTheUniverseTests */,
+				5B59BC8B1D6E243800DFE0AD /* 3 */,
 				5B59BC751D6E243800DFE0AD /* Products */,
 				03815CCC50B8449A4AE99CE5 /* Frameworks */,
 			);
@@ -93,12 +93,13 @@
 			path = HelloToTheUniverse;
 			sourceTree = "<group>";
 		};
-		5B59BC8B1D6E243800DFE0AD /* HelloToTheUniverseTests */ = {
+		5B59BC8B1D6E243800DFE0AD /* 3 */ = {
 			isa = PBXGroup;
 			children = (
 				5B59BC8C1D6E243800DFE0AD /* HelloToTheUniverseTests.swift */,
 				5B59BC8E1D6E243800DFE0AD /* Info.plist */,
 			);
+			name = 3;
 			path = HelloToTheUniverseTests;
 			sourceTree = "<group>";
 		};
